@@ -1,6 +1,8 @@
 import tensorflow as tf
 import numpy as np
 
+# just for a little change
+
 
 class TextCNN(object):
     """
